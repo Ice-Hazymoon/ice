@@ -1,0 +1,17 @@
+{
+  "name": "ice-hazymoon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "Apache License 2.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.10.1"
+  },
+  "dependencies": {
+    "node-sass": "^4.9.3",
+    "normalize.css": "^8.0.0"
+  }
+}
